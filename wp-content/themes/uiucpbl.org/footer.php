@@ -5,7 +5,7 @@
       <div class="grid">
       	<div class="row textbox">
       		<div class="four columns">
-      			<ul>
+      			<ul class="textbox">
       				<li>Contact</li>
       				<li><a href="#">words</a></li>
       				<li><a href="#">words</a></li>
@@ -13,21 +13,22 @@
       			</ul>
       		</div>
       		<div class="four columns">
-      			<ul>
-      				<li>University of Illinois</li>
-      				<li><a href="#">words</a></li>
-      				<li><a href="#">words</a></li>
-      				<li><a href="#">words</a></li>
-      			</ul>
-      		</div>
-      		<div class="four columns">
-      			<ul>
+      			<ul class="textbox">
       				<li>Meta</li>
       				<li><a href="#">words</a></li>
       				<li><a href="#">words</a></li>
       				<li><a href="#">words</a></li>
       			</ul>
       		</div>
+      		<div class="four columns">
+      			<ul class="textbox">
+      				<li>University of Illinois</li>
+      				<li><a href="#">words</a></li>
+      				<li><a href="#">words</a></li>
+      				<li><a href="#">words</a></li>
+      			</ul>
+      		</div>
+      		
       		
       	</div>
       </div>
